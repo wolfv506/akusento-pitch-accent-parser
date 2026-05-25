@@ -61,16 +61,6 @@ A standard lookup tool will misread the pitch of these words because it doesn't 
 
 ---
 
-## See the Invisible. Master the Sound.
-
-Akusento is a precision web-based Japanese pitch accent parser built for serious learners, linguists, and coaches. 
-
-Instead of guessing how a sentence should sound, paste any Japanese text into the engine and instantly receive structured, visually accurate pitch data.
-
-👉 **[Join the early access waitlist at akusento.com](https://akusento.com)**
-
----
-
 ## Frequently Asked Questions
 
 ### Do I really need to learn Japanese pitch accent?
