@@ -1,19 +1,19 @@
-# Akusento — Japanese Pitch Accent Parser
+# akusento — Japanese Pitch Accent Parser
 
 [![Website](https://img.shields.io/badge/Website-akusento.com-red)](https://akusento.com)
 [![Status](https://img.shields.io/badge/Status-Closed_Beta-blue)](#)
 
-Akusento is a precision web-based Japanese pitch accent parser built for advanced learners, linguists, and language coaches. 
+akusento is a precision web-based Japanese pitch accent parser built for advanced learners, linguists, and language coaches.
 
-Instead of relying on static dictionaries that only provide isolated word pitches, Akusento analyzes full Japanese sentences and returns structured, mora-level pitch data based on contextual grammatical rules.
+Instead of relying on static dictionaries that only provide isolated word pitches, akusento analyzes full Japanese sentences and returns structured, mora-level pitch data based on contextual grammatical rules.
 
 👉 **[Join the waitlist at akusento.com](https://akusento.com)**
 
 ## ⚙️ How It Works (Backend Engine)
-The core parsing engine is currently closed-source. It operates via a highly optimized pipeline utilizing:
+The core parsing engine is currently closed-source. It operates via a highly optimized and customized pipeline utilizing:
 *   **MeCab** for morpheme parsing and tokenization.
-*   **UniDic** for accurate, modern phonetic and pitch accent data.
-*   **Custom Contextual Logic** to accurately map pitch shifts across conjugations and particle attachments.
+*   **UniDic** for accurate POS-tagging and handling a huge variety of Japanese text.
+*   **Custom Contextual Logic** to accurately map pitch shifts across conjugations, particle attachments, compound nouns, suffixes and prefixes and much more.
 
 ## 📚 Guides & Documentation
 We are building a comprehensive library on how Japanese pitch accent works and how to apply it to your studies.
@@ -22,7 +22,7 @@ We are building a comprehensive library on how Japanese pitch accent works and h
 ## 🚀 Current Status
 The web interface is currently in development. We are focusing on delivering a zero-friction, highly accurate UI for generating visual pitch accent curves over full texts. 
 
-*   **Phase 1:** Standalone web tool (Currently capturing waitlist)
+*   **Phase 1:** Standalone web interface (In active development; early access waitlist open)
 *   **Phase 2:** Closed Beta testing for edge-case dictionary tuning
 *   **Phase 3:** Public launch
 *   **Phase 4:** Developer API (Documentation will be published here)
