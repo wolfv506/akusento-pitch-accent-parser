@@ -1,8 +1,8 @@
 # The Invisible Layer of Fluency: Understanding Japanese Pitch Accent
 
-Most learners spend years mastering grammar and vocabulary but eventually plateau. While grammar is written and visible, pitch accent—the high and low tones that give Japanese its natural rhythm—is usually invisible. 
+Most learners spend years mastering grammar and vocabulary but eventually plateau. While grammar is written and visible, pitch accent, i.e. the high and low tones that give Japanese its natural rhythm, is usually invisible. 
 
-If your goal is native-level fluency, relying entirely on context to cover up incorrect pitch will always mark you as a foreigner. Here is how to finally understand the shape of words.
+If your goal is native-level fluency, relying entirely on expanding vocab or studying more grammar to cover up your incorrect pitch will not get you there. Here is how to finally understand the shape of words.
 
 ---
 
@@ -30,20 +30,30 @@ Starts low, rises, and stays high until the very end of the word. The pitch **dr
 *   **Example:** 男 (Otoko)
 *   **Pitch flow:** o(Low) ➔ to(High) ➔ ko(High) ➔ ga(Low)
 
-*(Note: To see these patterns rendered with precise, mora-level visual curves, use the [Akusento web parser](https://akusento.com).)*
+### The Special Case for Verbs & i-Adjectives: Heiban vs. Kifuku
+
+While nouns can fall into any of the four detailed patterns above, verbs and *i*-adjectives are actually much simpler. To conjugate them perfectly, you do not need to memorize four patterns. You only need to classify them into two binary categories: **Heiban** (unaccented) or **Kifuku** (accented).
+
+*   **平板 (Heiban - Unaccented):** The word is flat and has no pitch drop. 
+*   **起伏 (Kifuku - Accented):** Literally meaning "undulating" or "ups and downs," this is a catch-all category for any verb or *i*-adjective that contains a pitch drop (effectively grouping Atamadaka, Nakadaka, and Odaka into one bucket).
+
+**Why this is the ultimate shortcut:**
+Verb and *i*-adjective pitch rules during conjugation depend entirely on whether the base word is *Heiban* or *Kifuku*. 
+
+If you know a verb is *Kifuku* (accented), you automatically know exactly where the pitch will drop in its *~te* form, past tense (*~ta* form), or negative (*~nai* form). You do not need to memorize the pitch of every single conjugation individually. Akusento recognizes this grammatical reality and categorizes verbs and adjectives accordingly, allowing you to learn the underlying rules rather than memorizing isolated forms.
 
 ---
 
 ## Why Dictionaries Are Not Enough (The Context Problem)
 
-Looking up words in a standard dictionary is fine for flashcards, but Japanese isn't spoken in isolated words. Pitch accent is dynamic. 
+Looking up words in a standard dictionary is fine for flashcards, but Japanese isn't spoken in isolated words. Pitch accent is highly dynamic and context dependant. 
 
-When a word is conjugated or attached to particles, the pitch shifts. Standard dictionaries only show the base isolation pitch. To truly understand how a sentence sounds, you need context-aware parsing.
+When a word is conjugated or attached to particles, the pitch often shifts. Standard dictionaries only show the isolated pitch accent of the base form of the word. To truly understand how a sentence sounds, you need context-aware parsing.
 
 Take a complex sentence like:
 > 千反田が何を考えているのかななど考えたこともなかったので。
 
-A standard lookup tool will misread the pitch of these words because it doesn't understand grammar. Akusento utilizes MeCab and UniDic to analyze the full sentence structure, applying grammatical rules to accurately map pitch shifts across conjugations and particle attachments:
+A standard lookup tool will misread the pitch of these words because it doesn't understand grammar. Akusento utilizes MeCab and UniDic to analyze the full sentence structure, applying grammatical rules to accurately map pitch shifts across conjugations and particle attachments, compound words and much more:
 
 ![Akusento parsing a complex Japanese sentence with context-aware pitch curves](assets/complex-sentence-parsing.png)
 
