@@ -15,6 +15,10 @@ The core parsing engine is currently closed-source. It operates via a highly opt
 *   **UniDic** for accurate, modern phonetic and pitch accent data.
 *   **Custom Contextual Logic** to accurately map pitch shifts across conjugations and particle attachments.
 
+## 📚 Guides & Documentation
+We are building a comprehensive library on how Japanese pitch accent works and how to apply it to your studies.
+*   📖 **[The Invisible Layer of Fluency: Understanding Japanese Pitch Accent](docs/understanding-pitch-accent.md)** — A complete breakdown of Heiban, Atamadaka, Nakadaka, Odaka, and the Kifuku verb classification.
+
 ## 🚀 Current Status
 The web interface is currently in development. We are focusing on delivering a zero-friction, highly accurate UI for generating visual pitch accent curves over full texts. 
 
