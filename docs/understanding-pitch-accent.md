@@ -35,12 +35,12 @@ Starts low, rises, and stays high until the very end of the word. The pitch **dr
 While nouns can fall into any of the four detailed patterns above, verbs and *i*-adjectives are actually much simpler. To conjugate them perfectly, you do not need to memorize four patterns. You only need to classify them into two binary categories: **Heiban** (unaccented) or **Kifuku** (accented).
 
 *   **平板 (Heiban - Unaccented):** The word is flat and has no pitch drop. 
-*   **起伏 (Kifuku - Accented):** Literally meaning "undulating" or "ups and downs," this is a catch-all category for any verb or *i*-adjective that contains a pitch drop (effectively grouping Atamadaka, Nakadaka, and Odaka into one bucket).
+*   **起伏 (Kifuku - Accented):** Literally meaning "undulating" or "ups and downs," this is a catch-all category for any verb or *i*-adjective that contains a pitch drop (effectively grouping Atamadaka, Nakadaka into one bucket).
 
 **Why this is the ultimate shortcut:**
 Verb and *i*-adjective pitch rules during conjugation depend entirely on whether the base word is *Heiban* or *Kifuku*. 
 
-If you know a verb is *Kifuku* (accented), you automatically know exactly where the pitch will drop in its *~te* form, past tense (*~ta* form), or negative (*~nai* form). You do not need to memorize the pitch of every single conjugation individually. Akusento recognizes this grammatical reality and categorizes verbs and adjectives accordingly, allowing you to learn the underlying rules rather than memorizing isolated forms.
+If you know a verb is *Kifuku* (accented), you automatically know exactly where the pitch will drop in its *~te* form, past tense (*~ta* form), or negative (*~nai* form). You do not need to memorize the pitch of every single conjugation individually. akusento recognizes this grammatical reality and categorizes verbs and adjectives accordingly, allowing you to learn the underlying rules rather than memorizing isolated forms.
 
 ---
 
@@ -53,11 +53,11 @@ When a word is conjugated or attached to particles, the pitch often shifts. Stan
 Take a complex sentence like:
 > 千反田が何を考えているのかななど考えたこともなかったので。
 
-A standard lookup tool will misread the pitch of these words because it doesn't understand grammar. Akusento utilizes MeCab and UniDic to analyze the full sentence structure, applying grammatical rules to accurately map pitch shifts across conjugations and particle attachments, compound words and much more:
+A standard lookup tool will misread the pitch of these words because it doesn't understand grammar. akusento utilizes MeCab and UniDic to analyze the full sentence structure, applying grammatical rules to accurately map pitch shifts across conjugations and particle attachments, compound words and much more:
 
-![Akusento parsing a complex Japanese sentence with context-aware pitch curves](assets/complex-sentence-parsing.png)
+![akusento parsing a complex Japanese sentence with context-aware pitch curves](assets/complex-sentence-parsing.png)
 
-*(Above: Akusento's visual engine rendering accurate mora-level pitch drops across a full sentence).*
+*(Above: akusento's visual engine rendering accurate mora-level pitch drops across a full sentence).*
 
 ---
 
@@ -70,4 +70,4 @@ Yes, if your goal is natural fluency. While Japanese is highly contextual, relyi
 Pitch accent is the internal high/low sound structure of individual words, which determines meaning (e.g., *hashi* meaning bridge vs. chopsticks). Intonation is the rise and fall of the voice over an entire sentence to convey emotion, emphasis, or a question.
 
 ### How do I find the pitch accent of a whole sentence?
-Standard dictionaries only show isolated words. To see how pitch changes within a sentence when particles and conjugations are added, you need a contextual parser like Akusento.
+Standard dictionaries only show isolated words. To see how pitch changes within a sentence when particles and conjugations are added, you need a contextual parser like akusento.
