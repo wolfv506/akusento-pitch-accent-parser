@@ -59,15 +59,3 @@ A standard lookup tool will misread the pitch of these words because it doesn't 
 
 *(Above: akusento's visual engine rendering accurate mora-level pitch drops across a full sentence).*
 
----
-
-## Frequently Asked Questions
-
-### Do I really need to learn Japanese pitch accent?
-Yes, if your goal is natural fluency. While Japanese is highly contextual, relying entirely on context to cover up incorrect pitch can make your speech sound unnatural or confusing to native speakers.
-
-### What is the difference between pitch accent and intonation?
-Pitch accent is the internal high/low sound structure of individual words, which determines meaning (e.g., *hashi* meaning bridge vs. chopsticks). Intonation is the rise and fall of the voice over an entire sentence to convey emotion, emphasis, or a question.
-
-### How do I find the pitch accent of a whole sentence?
-Standard dictionaries only show isolated words. To see how pitch changes within a sentence when particles and conjugations are added, you need a contextual parser like akusento.
