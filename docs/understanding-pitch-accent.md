@@ -55,11 +55,11 @@ Looking up words in a standard dictionary is fine for flashcards, but Japanese i
 When a word is conjugated or attached to particles, the pitch often shifts. Standard dictionaries only show the isolated pitch accent of the base form of the word. To truly understand how a sentence sounds, you need context-aware parsing.
 
 Take a complex sentence like:
-> 千反田が何を考えているのかななど考えたこともなかったので。
+> 雨がやんだら出かけようと思っていたのに、結局そのまま本を読み続けてしまった。
 
 A standard lookup tool will misread the pitch of these words because it doesn't understand grammar. akusento utilizes MeCab and UniDic to analyze the full sentence structure, applying grammatical rules to accurately map pitch shifts across conjugations and particle attachments, compound words and much more:
 
-![akusento parsing a complex Japanese sentence with context-aware pitch curves](assets/complex-sentence-parsing.png)
+![akusento parsing a complex Japanese sentence with context-aware pitch curves](assets/light-wide.png)
 
 *(Above: akusento's visual engine rendering accurate mora-level pitch drops across a full sentence).*
 
