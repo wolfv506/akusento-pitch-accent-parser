@@ -18,13 +18,3 @@ We are building a comprehensive library on how Japanese pitch accent works and h
 
 ## 🚀 Current Status
 The web interface is currently in development. We are focusing on delivering a zero-friction, highly accurate UI for generating visual pitch accent curves over full texts. 
-
-*   **Phase 1:** Standalone web interface (In active development; early access waitlist open)
-*   **Phase 2:** Closed Beta testing for edge-case dictionary tuning
-*   **Phase 3:** Public launch
-*   **Phase 4:** Developer API (Documentation will be published here)
-
-## 🐛 Bug Reports & Feature Requests
-Once the tool is live, this repository will serve as the public tracker for feature requests, API documentation, and public roadmap discussions. 
-
-*(Note: Dictionary edge-cases and parsing corrections will be handled dynamically within the web app UI).*
