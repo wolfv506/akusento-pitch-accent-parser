@@ -13,26 +13,26 @@ Standard Tokyo Japanese categorizes words into four distinct pitch accent patter
 ### 1. 平板 (Heiban - Flat)
 Starts low on the first mora, rises on the second, and stays high. The pitch **does not drop** when a particle like が or は is attached.
 
-*   **Example:** 現実的 (genjitsuteki)
-*   **Pitch flow:** ge(Low) ➔ n(High) ➔ ji(High) ➔ tsu(High) ➔ te(High) ➔ ki(High) ➔ ga(High)
+*   **Example:** 現実的（げんじつてき）
+*   **Pitch pattern:** げんじつてきに￣
 
 ### 2. 頭高 (Atamadaka - Head-high)
 Starts high on the first mora, then immediately drops on the second mora and stays low. Attached particles remain low.
 
-*   **Example:** 人生 (jinsei)
-*   **Pitch flow:** ji(High) ➔ n(Low) ➔ se(Low) ➔ i(Low) ➔ ga(Low)
+*   **Example:** 人生（じんせい）
+*   **Pitch pattern:** じ＼んせいが
 
 ### 3. 中高 (Nakadaka - Middle-high)
 Starts low, rises, and then drops somewhere in the middle of the word. Attached particles remain low.
 
-*   **Example:** 人間関係 (ningenkankei)
-*   **Pitch flow:** ni(Low) ➔ n(High) ➔ ge(High) ➔ n(High) ➔ ka(High) ➔ n(Low) ➔ ke(Low) ➔ i(Low) ➔ ga(Low)
+*   **Example:** 人間関係（にんげんかんけい）
+*   **Pitch pattern:** にんげんか＼んけいが
 
 ### 4. 尾高 (Odaka - Tail-high)
 Starts low, rises, and stays high until the very end of the word. The pitch **drops immediately after** the word, forcing the attached particle low.
 
-*   **Example:** 弟が (otouto ga)
-*   **Pitch flow:** o(Low) ➔ to(High) ➔ u(High) ➔ to(High) ➔ ga(Low)
+*   **Example:** 弟が（おとうとが）
+*   **Pitch pattern:** おとうと＼が
 
 ### The Special Case for Verbs & i-Adjectives: Heiban vs. Kifuku
 
