@@ -11,24 +11,28 @@ If your goal is native-level fluency, relying entirely on expanding vocab or stu
 Standard Tokyo Japanese categorizes words into four distinct pitch accent patterns. The pitch drops (or doesn't) between morae (the rhythmic units/syllables of Japanese). 
 
 ### 1. 平板 (Heiban - Flat)
-Starts low on the first mora, rises on the second, and stays high. The pitch **does not drop** when a particle (like が or は) is attached.
-*   **Example:** 桜 (Sakura)
-*   **Pitch flow:** sa(Low) ➔ ku(High) ➔ ra(High) ➔ ga(High)
+Starts low on the first mora, rises on the second, and stays high. The pitch **does not drop** when a particle like が or は is attached.
+
+*   **Example:** 現実的 (genjitsuteki)
+*   **Pitch flow:** ge(Low) ➔ n(High) ➔ ji(High) ➔ tsu(High) ➔ te(High) ➔ ki(High) ➔ ga(High)
 
 ### 2. 頭高 (Atamadaka - Head-high)
 Starts high on the first mora, then immediately drops on the second mora and stays low. Attached particles remain low.
-*   **Example:** 命 (Inochi)
-*   **Pitch flow:** i(High) ➔ no(Low) ➔ chi(Low) ➔ ga(Low)
+
+*   **Example:** 人生 (jinsei)
+*   **Pitch flow:** ji(High) ➔ n(Low) ➔ se(Low) ➔ i(Low) ➔ ga(Low)
 
 ### 3. 中高 (Nakadaka - Middle-high)
 Starts low, rises, and then drops somewhere in the middle of the word. Attached particles remain low.
-*   **Example:** あなた (Anata)
-*   **Pitch flow:** a(Low) ➔ na(High) ➔ ta(Low) ➔ ga(Low)
+
+*   **Example:** 人間関係 (ningenkankei)
+*   **Pitch flow:** ni(Low) ➔ n(High) ➔ ge(High) ➔ n(High) ➔ ka(High) ➔ n(Low) ➔ ke(Low) ➔ i(Low) ➔ ga(Low)
 
 ### 4. 尾高 (Odaka - Tail-high)
 Starts low, rises, and stays high until the very end of the word. The pitch **drops immediately after** the word, forcing the attached particle low.
-*   **Example:** 男 (Otoko)
-*   **Pitch flow:** o(Low) ➔ to(High) ➔ ko(High) ➔ ga(Low)
+
+*   **Example:** 弟が (otouto ga)
+*   **Pitch flow:** o(Low) ➔ to(High) ➔ u(High) ➔ to(High) ➔ ga(Low)
 
 ### The Special Case for Verbs & i-Adjectives: Heiban vs. Kifuku
 
