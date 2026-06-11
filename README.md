@@ -7,8 +7,6 @@ akusento is a precision web-based Japanese pitch accent parser built for advance
 
 Instead of relying on static dictionaries that only provide isolated word pitches, akusento analyzes full Japanese sentences and returns structured, mora-level pitch data based on contextual grammatical rules.
 
-👉 **[Join the waitlist at akusento.com](https://akusento.com)**
-
 ## ⚙️ How It Works (Backend Engine)
 The core parsing engine is currently closed-source. It operates via a highly optimized and customized pipeline utilizing:
 *   **MeCab** for morpheme parsing and tokenization.
