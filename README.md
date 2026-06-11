@@ -1,7 +1,6 @@
 # akusento — Japanese Pitch Accent Parser
 
 [![Website](https://img.shields.io/badge/Website-akusento.com-red)](https://akusento.com)
-[![Status](https://img.shields.io/badge/Status-Closed_Beta-blue)](#)
 
 akusento is a precision web-based Japanese pitch accent parser built for advanced learners, linguists, and language coaches.
 
