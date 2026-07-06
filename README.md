@@ -17,7 +17,7 @@ The project has grown from a single parser demo into a small ecosystem of tools 
 |---|---|
 | **[/guide/](https://akusento.com/guide/)** | A comprehensive breakdown of how Japanese pitch accent actually works — heiban, atamadaka, nakadaka, odaka, the heiban/kifuku verb shortcut, compound noun rules, and more. |
 | **[/parser/](https://akusento.com/parser/)** | Live preview of the parser engine on real sentences, rendering mora-level pitch curves, furigana, and devoicing marks. |
-| **[/train/](https://akusento.com/train/)** | An interactive drill: mark the accented morae in real Japanese sentences (via Tatoeba), then compare your answer against the parser. Easy / Medium / Hard / Mixed difficulty pools. |
+| **[/train/](https://akusento.com/train/)** | An interactive drill suite with four modes: sentence-level marking (via Tatoeba), word-level pitch drills, homophone discrimination, and review sessions that resurface previously missed answers. Easy / Medium / Hard / Mixed difficulty pools throughout. |
 | **[/search/](https://akusento.com/search/)** | A pitch accent dictionary covering ~200,000 unique Japanese words, including wildcard and regex-style pattern search. |
 | **[/library/](https://akusento.com/library/)** | A growing collection of canonical Japanese literary works — currently 夏目漱石『坊っちゃん』— rendered in full with mora-level pitch accent, furigana, and devoicing marks, chapter by chapter. |
 | **[/about/](https://akusento.com/about/)** | Details on how the parser is benchmarked, including accuracy figures measured against real literary prose and professional audiobook narration. |
